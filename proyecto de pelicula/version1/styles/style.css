@@ -1,0 +1,17 @@
+#upcomingMovies img{
+    display: block;
+    margin: auto;
+    max-width: 30%;
+}
+
+#contenedor img{
+    display: block;
+    margin: auto;
+    max-width: 60%;
+}
+
+#contenedor a{
+    text-decoration: none;
+    color: black;
+
+}
